@@ -66,7 +66,7 @@ function App() {
   return (
     <div>
       <header>
-        <h1>Share Your Info</h1>
+        <h1>Let Me Know Your Favorite Influencer!</h1>
         <div className="intro">We would love to know a little about you!</div>
         <button onClick={handleCollectData}>Enter Data</button>
       </header>
